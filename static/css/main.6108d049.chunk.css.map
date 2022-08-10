@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KACE,WAAY,CACZ,aACF,CAEA,UACE,4BAAqB,CAArB,oBAAqB,CACrB,cACF","file":"main.6108d049.chunk.css","sourcesContent":["/* put styles here */\n.App {\n  width: 570px;\n  margin: 0 auto;\n}\n\n.isActive {\n  transform: scale(1.1);\n  transition: 0.2s;\n}\n"]}
